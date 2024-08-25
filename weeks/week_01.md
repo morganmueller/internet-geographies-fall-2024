@@ -10,7 +10,7 @@
 * ↳ [Week 1 Slides](https://docs.google.com/presentation/d/1DDhyuObzqxtV6rY1Q3kTsRQ-y1N2xstllscCgi_eS9A/edit?usp=sharing)
 
 ### Reading Response Google Doc
-* ↳ [Response Document](https://forms.gle/nb4aoFEMAT5sDesw7)
+* ↳ [Response Document](https://docs.google.com/document/d/15rYCmi8DXG5ANeaaNK7Ywzmi9zo7B-4xNomqk54G8cg/edit?usp=sharing)
 
 ## Monday 
 

@@ -139,7 +139,7 @@ Each project must be accompanied with a write-up detailing methodologies, resour
 | :----         |  ----  | ---- |
 | [Five Reading Responses](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) | December 11th | Course Reading Responses |
 | [Project 1](./assignments/assignment_01.md) |  October 9th | Public Data Mapping |
-| [Project 2](./assignments/assignment_02.md) |  November 6th | Visualizing a Collection  |
+| [Project 2](./assignments/assignment_02.md) |  November 13th | Visualizing a Collection  |
 | [Project 4](./assignments/final-project.md) | December 9th | Final Project/Paper  |
 
 
@@ -477,19 +477,9 @@ __ASSIGNED__
 
 ## Section - Supply Chains
 
-### Week 8 - No Class
+### Week 8 - Rethinking Containerization
 
-<s>Monday, October 14th</s>
-
-
-<s>Wednesday, October 16th</s>
-
-
-## Section - Supply Chains
-
-### Week 9 - Rethinking Containerization
-
-#### Monday, October 21st
+#### Monday, October 14th
 * Reading Discussion
 * Small Assignment Showcase
 
@@ -512,15 +502,17 @@ __ASSIGNED__
 
 
 
+#### Wednesday, October 16th
 
-#### Wednesday, October 23rd
+__ASSIGNED__
+
+* Project 2 (Visualizing a Collection), **Due Nov 13th**
 * Introduction to Data visualization best practices
 * Data Collection Ethics and best practices
 
 
 __ASSIGNED__
 
-* Project 2 (Visualizing a Collection), **Due April 17th**
 
 
 * **SMALL ASSIGNMENT**
@@ -531,9 +523,9 @@ __ASSIGNED__
 
 ## Section - Supply Chains
 
-### Week 10 - Trade & Capitalist Expansion
+### Week 9 - Trade & Capitalist Expansion
 
-#### Monday, October 28th
+#### Monday, October 21st
 * Reading Discussion
 
 __ASSIGNED__
@@ -545,10 +537,9 @@ __ASSIGNED__
 * **READING FOR SMALL ASSIGNMENT DUE WEDNESDAY**
     * [Rob Walker, "How to Pay Attention"](https://medium.com/re-form/how-to-pay-attention-4751adb53cb6)
 
-#### Wednesday, October 30th
+
+#### Wednesday, October 23rd
 * Field Trip
-
-
 
 __ASSIGNED__
 * **SMALL ASSIGNMENT**
@@ -560,10 +551,9 @@ __ASSIGNED__
 
 ## Section - Supply Chains
 
-### Week 11 - Politics of Production
+### Week 10 - Politics of Production
 
-#### Monday, November 4th
-
+#### Monday, October 28th
 
 __ASSIGNED__
 
@@ -578,7 +568,7 @@ __ASSIGNED__
 * **RESOURCES** 
     * [https://publiclab.org/](https://publiclab.org/)
 
-#### Wednesday, November 6sth
+#### Wednesday, October 30th
 
 * Reading Discussion
 * In Class group project
@@ -590,19 +580,14 @@ __ASSIGNED__
 * **SMALL ASSIGNMENT**
     * Spend the next week collecting a personal dataset and use datawrapper to visualize it. This personal dataset could be anything you'd like. For example you could log each of your meal times, download an app which tracks and logs how much time you spend on your phone/computer, keep track of which routes you take going to school, the number of times you say certain words or perform certain actions etc. During next Wednesday's class we will spend some time looking at each person's visualization and discussing what stories they can infer from those data.
 
-* Final Project/Paper Proposals, **Due April 13th by 11pm**
+* Final Project/Paper Proposals, **Due Nov 18th by 11pm**
 
+## Section - Supply Chains
 
-## Section - Mining & Extraction
+### Week 11 - Elements of the Internet
 
-### Week 12 - Elements of the Internet
-
-#### Monday, November 11th
+#### Monday, November 4th
 * Reading Discussion
-* **PROJECT 2 DUE**
-
-
-
 
 __ASSIGNED__
 * **READING**
@@ -610,42 +595,36 @@ __ASSIGNED__
    * [Sandro Mezzadra & Brett Neilson, "Extraction, Logistics, Finance"](https://www.radicalphilosophy.com/article/extraction-logistics-finance)
 * **FINAL PROJECT PROPOSALS DUE THIS FRIDAY AT 11PM**
 
-#### Wednesday, November 13th
+#### Wednesday, November 6th
 * Project 2 In Class work time
 * 1 on 1 project assistance
 
+
 ## Section - Mining & Extraction
 
-### Week 13 - Resource Lives
+### Week 12 - Resource Lives
 
-#### Monday, November 18th
+#### Monday, November 11th
 * Reading Discussion
-* In class activity
 
 __ASSIGNED__
 * **READING**
     * [Julie Michelle Klinger, "Rare Earth Frontiers", 2017](https://www.are.na/block/7639482)
 
-#### Wednesday, November 20th
+#### Wednesday, November 13th
+* **PROJECT 2 DUE**
 * Project 2 Presentations and critique
+
 
 ## Section - Mining & Extraction
 
-### Thanksgiving Week (Wedneday Class is Cancelled)
-### Week 14 - Not Quite Rare Earth
+### Week 13 - Not Quite Rare Earth
 
-
-#### Monday, November 25th
+#### Monday, November 18th
 * Reading Discussion
 * In Class Final Project Proposal Group Discussion
 * Begin 1 on 1 final project/paper meetings
 
-
-* Advanced Mapping techniques with D3.js and Keppler.gl
-    * Creating Custom tiles
-    * Working with Mapbox GLSL
-* Custom tile exercise
-* Keppler.gl mapping exercise
 __ASSIGNED__
 * **READING**
     * [Tim Maughan, "The Dystopian Lake Filled By the World's Tech Lust", 2015](https://www.bbc.com/future/article/20150402-the-worst-place-on-earth)
@@ -660,6 +639,24 @@ __ASSIGNED__
 * **RESOURCES**
 [Reassembling Rubbish Project](https://scalar.usc.edu/works/reassembling-rubbish/index)
 
+#### Wednesday, November 20th
+
+* Advanced Mapping techniques with D3.js and Keppler.gl
+    * Creating Custom tiles
+    * Working with Mapbox GLSL
+* Custom tile exercise
+* Keppler.gl mapping exercise
+
+## Section - Waste & Disposal
+
+### Thanksgiving Week (Wedneday Class is Cancelled)
+### Week 14 - Not Quite Rare Earth
+
+
+#### Monday, November 25th -- Optional Class
+* Reading Discussion
+* Continue 1 on 1 meetings regarding final project
+
 #### Wednesday, November 27th
 NO CLASSS
 
@@ -669,7 +666,8 @@ NO CLASSS
 
 #### Monday, December 2nd
 * Reading Discussion
-* Continue 1 on 1 meetings regarding final project
+* In class work session
+* Watch [Sacrifice Zone](https://lav.io/projects/endicott/)
 
 __ASSIGNED__
 * **READING**
@@ -694,8 +692,7 @@ __ASSIGNED__
 **I am available for extra office hours this week for any last minute assistance needed.**
 
 #### Monday, December 9th
-* In Class work session
-* Watch [Sacrifice Zone](https://lav.io/projects/endicott/)
+* Final Presentations
 
 __ASSIGNED__
 
@@ -704,13 +701,10 @@ __ASSIGNED__
     * [Winona Laduke, Deborah E. Cowen, "Beyond Wiindigo Infrastructure, April 2020](https://read.dukeupress.edu/south-atlantic-quarterly/article-abstract/119/2/243/164111/Beyond-Wiindigo-Infrastructure?redirectedFrom=fulltext)
 
 
-* **READING**
 
-* **OPTIONAL READING**
 
 #### Wednesday, December 11th
 **Projects/Papers due by 4:00pm**
-* Final Presentations
 
 
 
