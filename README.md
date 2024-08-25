@@ -78,7 +78,7 @@ Starting in week 2, choose five readings from anywhere in the syllabus and write
 
 ## DISCUSSION LEAD
 
-During our first meeting, you will sign up to co-lead two reading discussions of your choice. For each Monday meeting thereafter (starting in week 3), I will begin by mapping out the week's theme within a broader field, cultural context, or contemporary debate, highlighting key interventions and implications. Your team will then follow with a 20-minute presentation involving close readings and analysis of the text/s. In your presentation, please (1) specify key figures and keywords, (2) draw out main arguments and structure, (3) note methods and sources used, and (4) finally, raise discussion points/questions, and/or a class exercise. Kindly email me your presentation outline by 7pm the day before.
+During our first meeting, you will sign up to lead one reading discussion of your choice. For each Monday meeting thereafter (starting in week 3), I will begin by mapping out the week's theme within a broader field, cultural context, or contemporary debate, highlighting key interventions and implications. Your team will then follow with a 20-minute presentation involving close readings and analysis of the text/s. In your presentation, please (1) specify key figures and keywords, (2) draw out main arguments and structure, (3) note methods and sources used, and (4) finally, raise discussion points/questions, and/or a class exercise. Kindly email me your presentation outline by 7pm the day before.
 
 **Addendum**: There are a few weeks where full books will be assigned for reading. During those weeks the expectation will be that everyone reads the introduction and conclusion. I will then assign each reading group a chapter to read. During the following class's meeting each group will give a brief (5-10 minute) presentation on their assigned chapter(s) of the book so the class will cumulatively have a grasp of major themes of the work.
 
@@ -305,7 +305,7 @@ __ASSIGNED__
     * [NYC's Internet Infrastructure](https://cromwell-intl.com/travel/usa/new-york-internet/)
 
 
-* Project 1 (Public Data Mapping), **Due Oct 7th**
+* Project 1 (Public Data Mapping), **Due Oct 9th**
 
 
 ## Section - A Tangible Internet
@@ -552,9 +552,10 @@ __ASSIGNED__
 
 __ASSIGNED__
 * **SMALL ASSIGNMENT**
-    *  At least once a week for the next four weeks, revisit one of the sites you chose in the first small exercise where you identified public components of networked infrastructure (for at least 20 minutes per visit). This time the goal will be to practice the 'art of noticing,' focusing on the piece of internet infrastructure and creatively document what you notice. This documentation could be in the form of a field guide, audio field recording, journal or any other method you'd like.
-    
-    Some potential things to think about while at the location are how people interact with the piece of internet infrastructure, if at all, what dynamics it brings to the area it's located in, and if other non-human actors interact with it. We will spend a portion of **March 22nd's** class discussing each student's documentation.
+    *  At least once a week for the next five weeks (Due Dec 2nd), revisit one of the sites which you chose in the first small exercise where you identified public components of networked infrastructure (for at least 20 minutes per visit). This time the goal will be to practice the 'art of noticing,' focusing on the piece of internet infrastructure and creatively document what you notice. This documentation could be in the form of a field guide, audio field recording, journal or any other method you'd like.
+
+    Some potential things to think about while at the location are how people interact with the piece of internet infrastructure, if at all, what dynamics it brings to the area it's located in, and if other non-human actors interact with it. 
+
 
 
 ## Section - Supply Chains
@@ -630,13 +631,21 @@ __ASSIGNED__
 
 ## Section - Mining & Extraction
 
+### Thanksgiving Week (Wedneday Class is Cancelled)
 ### Week 14 - Not Quite Rare Earth
+
 
 #### Monday, November 25th
 * Reading Discussion
 * In Class Final Project Proposal Group Discussion
 * Begin 1 on 1 final project/paper meetings
 
+
+* Advanced Mapping techniques with D3.js and Keppler.gl
+    * Creating Custom tiles
+    * Working with Mapbox GLSL
+* Custom tile exercise
+* Keppler.gl mapping exercise
 __ASSIGNED__
 * **READING**
     * [Tim Maughan, "The Dystopian Lake Filled By the World's Tech Lust", 2015](https://www.bbc.com/future/article/20150402-the-worst-place-on-earth)
@@ -652,12 +661,7 @@ __ASSIGNED__
 [Reassembling Rubbish Project](https://scalar.usc.edu/works/reassembling-rubbish/index)
 
 #### Wednesday, November 27th
-
-* Advanced Mapping techniques with D3.js and Keppler.gl
-    * Creating Custom tiles
-    * Working with Mapbox GLSL
-* Custom tile exercise
-* Keppler.gl mapping exercise
+NO CLASSS
 
 ## Section - Waste & Disposal
 

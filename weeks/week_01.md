@@ -7,12 +7,12 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Week 1 Slides](https://docs.google.com/presentation/d/1TKpse72ro4Z3JY4_XsZ3Zwp2CicQsh-gVrWUgSFkDaQ/edit?usp=sharing)
+* ↳ [Week 1 Slides](https://docs.google.com/presentation/d/1DDhyuObzqxtV6rY1Q3kTsRQ-y1N2xstllscCgi_eS9A/edit?usp=sharing)
 
 ### Reading Response Google Doc
-* ↳ [Response Document](https://docs.google.com/document/d/1tTH-Oac5-IsplvvS-ANf6MWLI_TKMXUMWU_Bvj79xXg/edit?usp=sharing)
+* ↳ [Response Document](https://forms.gle/nb4aoFEMAT5sDesw7)
 
-## Monday (Online over Zoom)
+## Monday 
 
 ## Schedule
 * Introductions - __45 minutes__
@@ -33,7 +33,7 @@
 ### Choosing Reading Disussion Text Groups - 15 minutes
 Add your name under the desired week in the in class shared notes doc.
 
-[Reading Discussion Group Link](https://docs.google.com/document/d/1cC8rhMC4xD7Kt0QunY-WffXRhs674FFQgHLNapdv_k4/edit?usp=sharing)
+[Reading Discussion Group Link](https://docs.google.com/document/d/1d2W5wnQpiwwJacIzfLSThBpEHd_V4VwRCJpqFQgD0Yg/edit?usp=sharing)
 
 
 ### Introduction to the Tangible Internet - 45 minutes
@@ -85,7 +85,7 @@ Add your name under the desired week in the in class shared notes doc.
 * [Data Walking](https://www.datawalking.com/)
 
 ## Small Assignment Submission
-* ↳ [Google Form](https://forms.gle/mBAe5SmminVHRz5M6)
+* ↳ [Google Form](https://forms.gle/nb4aoFEMAT5sDesw7)
 
 ---
 ---
