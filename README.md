@@ -113,7 +113,7 @@ Prior to each week I will upload slides, code examples, resources and more to th
 | GO TO  |  DATE  | SECTION | DISCUSSION LEAD |
 | :----         |  ----  | ---- | ---- |
 | [WEEK 01](weeks/week_01.md) | Aug 26 & 28 | A Tangible Internet | NONE |
-| [WEEK 02](weeks/week_02.md) | <s>Sept 02<s> & 04 | A Tangible Internet | NONE |
+| [WEEK 02](weeks/week_02.md) | Sept <s>02</s> & 04 | A Tangible Internet | NONE |
 | [WEEK 03](weeks/week_03.md) | Sept 09 & 11 | A Tangible Internet |TBD |
 | [WEEK 04](weeks/week_04.md) | Sept 16 & 18 | A Tangible Internet | TBD |
 | [WEEK 05](weeks/week_05.md) | Sept 23 & 25 | A Tangible Internet | TBD |
