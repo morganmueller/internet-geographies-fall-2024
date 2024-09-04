@@ -20,14 +20,9 @@
 
 ### NO CLASS
 
-### Topics
-
-## Schedule
 
 
-### Assigned (**Due Next Monday**)
 
-### Additional Resources & References
 
 <hr>
 <hr>
@@ -61,7 +56,7 @@
     * Variables, data types, conditionals
 * Ending Statements -  __4ish minutes__
     * Wednesday's plan
-    
+
 *  In Class Programming Exercises - __30 minutes__
     * Break into groups of 2
     * Ask questions as they come up!
