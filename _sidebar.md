@@ -2,6 +2,7 @@
 
 * Weeks
     * [Week 1](weeks/week_01.md)
+    * [Week 2](weeks/week_02.md)
 
 * Projects
 
