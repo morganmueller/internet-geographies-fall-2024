@@ -138,9 +138,9 @@ Each project must be accompanied with a write-up detailing methodologies, resour
 | ASSIGNMENT  |  DUE DATE  | TITLE |
 | :----         |  ----  | ---- |
 | [Five Reading Responses](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) | December 11th | Course Reading Responses |
-| [Project 1](./assignments/assignment_01.md) |  October 9th | Public Data Mapping |
-| [Project 2](./assignments/assignment_02.md) |  November 13th | Visualizing a Collection  |
-| [Project 4](./assignments/final-project.md) | December 9th | Final Project/Paper  |
+| [Project 1](./projects/project_01.md) |  October 9th | Public Data Mapping |
+| [Project 2](./projects/project_02.md) |  November 13th | Visualizing a Collection  |
+| [Project 4](./projects/final-project.md) | December 9th | Final Project/Paper  |
 
 
 ## LATE ASSIGNMENTS
