@@ -17,7 +17,7 @@
     * [Introduction to Javascript](tutorials_guides/intro-to-javascript.md)
     * [Leaflet Examples](tutorials_guides/leaflet_examples/README.md)
     * [HTML Cheatsheet ](https://drive.google.com/file/d/1V_Th2OPnb6FcRVPMcpqeWigFD7DC1XYx/view?usp=sharing)
-
+    * [Introduction to Leaflet](tutorials_guides/introduction-to-leaflet.md)
     
 * Resources
     * [Mapping/Data Resources](resources/mapping_and_data.md)
@@ -29,6 +29,7 @@
     * [Week 2 project 2](tutorials_guides/exercises/week_02_proj2.md)
     * [Week 3 exercises](tutorials_guides/exercises/week_03_exercises.md)
     * [Week 3 Project](tutorials_guides/exercises/week_03_proj.md)
+    * [Week 4 Leaflet Studio](tutorials_guides/exercises/leaflet_studio.md)
     * [Week 4 exercises](tutorials_guides/exercises/week_04_exercises.md)
     * [Week 6 Studio](tutorials_guides/exercises/week_06_studio1/README.md)
     * [Week 7 Studio](tutorials_guides/exercises/week_06_studio2/Kepler_studio.md)
