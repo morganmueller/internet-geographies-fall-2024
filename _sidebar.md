@@ -36,5 +36,5 @@
     * [Week 10 Studio](tutorials_guides/exercises/week_09_studio.md)
     * [Week 11 Studio](tutorials_guides/exercises/week_10_studio.md)  
     
-    * Problem Sets
+* Problem Sets
     * [Problem Set 1](problem_sets/problem_set_one.md)
