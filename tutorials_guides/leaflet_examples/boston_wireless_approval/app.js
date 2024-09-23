@@ -9,7 +9,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 let wirelessIcon = L.icon(
     {
-       iconUrl: 'assets/antenna.png',
+       iconUrl: 'https://upload.wikimedia.org/wikipedia/commons/2/29/VHF_UHF_LP-antenna.JPG',
        iconSize: [20,20]
     });
 
