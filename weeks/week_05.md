@@ -11,8 +11,6 @@
 ### Reading Discussion Lead Doc
 * ↳ [Discussion Leads](https://docs.google.com/document/d/1d2W5wnQpiwwJacIzfLSThBpEHd_V4VwRCJpqFQgD0Yg/edit?usp=sharing)
 ## Monday
-
-## Monday - NO CLASS
 ## Schedule
 * Quick Check-in - __5 minutes__
     * How's everyone feeling?
