@@ -1,7 +1,7 @@
 # PROJECT 1: Mapping a Public Dataset
 ## DUE: October 9th, 2024
 
-### Submission Link: [Submit here](https://forms.gle/W56KwR3BSBdb3Eca7)
+### Submission Link: [ Submit here](https://forms.gle/W56KwR3BSBdb3Eca7)
 
 ## Background
 Familiarity with multiple tools is critical for creating web maps and programming in general. While one tool may be great at a certain task, another tool could be great at a different one.
@@ -41,7 +41,7 @@ The purpose of this first project is to get you comfortable with four things:
 
 ## Project Write Up and Submission
 
-### Submission Link: https://forms.gle/W56KwR3BSBdb3Eca7
+### Submission Link:  https://forms.gle/W56KwR3BSBdb3Eca7
 
 **Your final submission should be one integrated collection, with all components synthesized and contextualized.**
 
