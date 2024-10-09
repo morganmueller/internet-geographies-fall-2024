@@ -13,7 +13,7 @@
 
 
 ## Monday 
-!
+
 ### Topics
 * Reading Discussion
 * Project 1 in class work timee
@@ -26,7 +26,10 @@
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
 
-__Last week's small assignment is now due this Wednesday__
+## Monday 
+### Topics
+* Project 1 Presentations!
+
 
 ### Assigned (**Due Monday)
 

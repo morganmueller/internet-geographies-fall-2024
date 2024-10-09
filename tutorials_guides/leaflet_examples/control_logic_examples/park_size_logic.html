@@ -59,7 +59,7 @@
             parksLayer = L.geoJSON(parksData, {
                 style: style,
                 filter: function (feature) {
-                    return feature.properties.acres > 100;
+                    return feature.properties.acres = 100;
                 },
                 onEachFeature: function (feature, layer) {
                     layer.bindPopup("<strong>" + feature.properties.location + "</strong><br/>Area: " + feature.properties.area + " km²");
