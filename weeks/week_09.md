@@ -1,4 +1,4 @@
-# Week 10 - Trade & Capitalist Expansion
+# Week 9 - Trade & Capitalist Expansion
 
 > "Fish Story follows two interwoven strands, both of which turn around questions of liminality and flux. First, it is a ‘documentary’ reading of contemporary maritime space. As both sea and land are progressively “rationalized” by increasingly sophisticated industrial methods, does the “classic” relation between terrestrial space and maritime space undergo a reversal? Does the sea become fixed and the land fluid? Second, Fish Story is an “art historical” allegory of the sea as an object of representation. How does the sea “disappear” from the cognitive and imaginative horizon of late modernity? Are there broader lessons to be drawn from this disappearance?" - Kalili
 
@@ -18,9 +18,6 @@
 ### Topics
 * Sekula & Kalili
 * Trade & Labor
-* Data Storytelling
-* Intro to Datawrapper
-* Project 2 Introduction
 * Art of noticing introduction
 
 
@@ -31,11 +28,8 @@
     * Labor & Trade
 * Data Storytelling - __20 minutes__
     * Examples and best practices    
-* Introduction to Datawrapper - __40 minutes__
-    * What is Datawrapper?
-    * Chart types
-    * Examples
-* Project 2 and Art of Storytelling
+* Vega-Lite Live Coding - __40 minutes__
+* Art of Storytelling
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
 

@@ -14,6 +14,7 @@
 * Projects
     * [Project 1](projects/project_01.md)
     * [Project 2](projects/project_02.md)
+    * [Project 2](projects/art-of-noticing.md)
 
 
 * Tutorials & Guides
