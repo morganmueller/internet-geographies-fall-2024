@@ -1,4 +1,4 @@
-# Art of Noticing (**IN CLASS PRESENTATIONS APRIL 22nd**)
+# Art of Noticing (**IN CLASS PRESENTATIONS DEC 2nd**)
 
 ## Submission
 Please Submit your project here: https://forms.gle/PmUtVRKuzajurgc37
@@ -21,7 +21,7 @@ For example, in a previous version of this exercise the artist Marina Zurkow wou
 
 Take note of the location of each observation in some way and make some brief notes as to what you notice about it and about yourself. Try to imagine the world from the perspective and temporality of your chosen piece of internet infrastructure, what dynamics it brings to the area, and if other non-human actors interact with it. Do some research of it history and how it has come to be here in the city with you. What are the opportunities and challenges it faces?
 
- During **April 22nd's** class we will spend the first hour presenting the documentation and observations you all have done. 
+ During **Dec 2nd's** class we will spend the first hour presenting the documentation and observations you all have done. 
 
 
 I highly recommend reading Rob Walker's piece [How To Pay Attention](https://medium.com/re-form/how-to-pay-attention-4751adb53cb6) and Jenny Odell's essay [How to do nothing](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) to give you some guidance for methodologies and patience needed to practice the art of noticing.

@@ -10,6 +10,7 @@
     * [Week 7](weeks/week_07.md)
     * [Week 8](weeks/week_08.md)
     * [Week 9](weeks/week_09.md)
+    * [Week 10](weeks/week_10.md)
 
 * Projects
     * [Project 1](projects/project_01.md)
