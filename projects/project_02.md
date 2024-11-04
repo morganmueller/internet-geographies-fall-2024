@@ -1,6 +1,6 @@
 # Project 2 Data Storytelling 
-## Due By: 11:59pm Tuesday April 16th.
-## In Class presentations April 17th.
+## Due By: 11:59pm Tuesday November 13th.
+## In Class presentations November 13th.
 > " In order to successfully participate in this emerging digital reality, it’s imperative that [those] internet users have the skill of digital literacy. If we don’t highlight the importance of knowing and understanding our devices and how they interact with our data, we’re in danger of creating and reproducing inequalities and privileging some people with greater access and abilities than others." - Mimi Onuoha, 2015
 
 ## Background
