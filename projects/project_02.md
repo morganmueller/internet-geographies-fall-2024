@@ -1,6 +1,8 @@
 # Project 2 Data Storytelling 
 ## Due By: 11:59pm Tuesday November 13th.
 ## In Class presentations November 13th.
+
+### Submission Link: https://forms.gle/hgVg2Aa2DTbKyhS5A
 > " In order to successfully participate in this emerging digital reality, it’s imperative that [those] internet users have the skill of digital literacy. If we don’t highlight the importance of knowing and understanding our devices and how they interact with our data, we’re in danger of creating and reproducing inequalities and privileging some people with greater access and abilities than others." - Mimi Onuoha, 2015
 
 ## Background
@@ -57,7 +59,7 @@ https://github.com/morganmueller/internet-geographies-spring-2023/tree/master/pr
 
 ## Project Write Up and Submission
 
-Submission Link: https://forms.gle/e2MQkhnxJ1r3EiFb6
+Submission Link: https://forms.gle/hgVg2Aa2DTbKyhS5A
 
 **Your final submission should be one integrated collection, with all components synthesized and contextualized.**
 

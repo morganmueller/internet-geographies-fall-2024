@@ -12,10 +12,13 @@
     * [Week 9](weeks/week_09.md)
     * [Week 10](weeks/week_10.md)
     * [Week 11](weeks/week_11.md)
+    * [Week 12](weeks/week_12.md)
 
 * Projects
     * [Project 1](projects/project_01.md)
     * [Project 2](projects/project_02.md)
+    * [Final Project](projects/final.md)
+
     * [Art of Noticing](projects/art-of-noticing.md)
 
 
