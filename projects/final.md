@@ -19,9 +19,9 @@ This research project is worth 15% of your final grade, and is due before class 
 
 | Item | Week | Deadline |
 | :----    | ---- | ---- | 
-| Written Proposal | Week 13 |  April 21 |
-| 1-on-1 Check-ins | Week 14 |  N/A |
-| Final Project Presentation | Week 16 |  May 15 |
+| Written Proposal | Week 14 |  November 25 |
+| 1-on-1 Check-ins | Week 14 |  November 25 |
+| Final Project Presentation | Week 16 |  December 11 |
 
 ## PROPOSAL
 ### This Proposal is required for both project based finals and for paper based finals
