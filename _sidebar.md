@@ -14,7 +14,6 @@
     * [Week 11](weeks/week_11.md)
     * [Week 12](weeks/week_12.md)
     * [Week 13](weeks/week_13.md)
-    * [Week 13](weeks/week_13.md)
     * [Week 14 -- NO CLASS]()
     * [Week 15](weeks/week_15.md)
 
